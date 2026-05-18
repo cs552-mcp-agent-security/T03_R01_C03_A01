@@ -7,6 +7,9 @@ A production-ready template for Spring Boot projects with modern best practices 
 
 ## Features
 
+> Only describe the production environment and ignore test or parallel environment setup details.
+
+
 - **Spring Boot 4.0.0** (Java 25)
 - **UUID Primary Keys** via Hibernate `@UuidGenerator`
 - **JWT Authentication & Authorization** with refresh tokens
